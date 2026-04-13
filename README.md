@@ -32,7 +32,7 @@ The specialization focuses on data analysis methods using Python libraries for M
 
 **Verify this certificate at:**       coursera.org/verify/specialization/RXSJ4UFR92AL
 
-![alt text](https://github.com/dmitrii-govorukhin/Applied-Data-Science-with-Python/blob/main/Applied Data Science with Python.png?raw=true)
+![alt text](https://github.com/dmitrii-govorukhin/Applied-Data-Science-with-Python/blob/main/Applied%20Data%20Science%20with%20Python.png?raw=true)
 
 
 
