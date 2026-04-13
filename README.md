@@ -1,2 +1,39 @@
-# Applied-Data-Science-with-Python
-5 course series Specialization from the University of Michigan
+# Applied Data Science with Python
+
+**Project:** 					  University of Michigan specialization - 5 course series.
+
+**Platforms and tools:**  Jupyter Notebook, Python
+
+**Description:**        This repository contains my notebooks and course projects from the University of Michigan series of five courses I completed:
+ 1. Introduction to Data Science in Python
+ 2. Applied Plotting, Charting & Data Representation in Python
+ 3. Applied Machine Learning in Python
+ 4. Applied Text Mining in Python
+ 5. Applied Social Network Analysis in Python
+
+The specialization focuses on data analysis methods using Python libraries for Machine Learning and covers the following skills: 
+ - Applied Machine Learning
+ - Data Manipulation
+ - Data Preprocessing
+ - Data Visualization Software
+ - Feature Engineering
+ - Graph Theory
+ - Interactive Data Visualization
+ - Matplotlib
+ - Model Evaluation
+ - Natural Language Processing
+ - Network Analysis
+ - Scientific Visualization
+ - Social Network Analysis
+ - Supervised Learning
+ - Text Mining
+ - Visualization (Computer Graphics)
+ - Data Visualization
+
+**Verify this certificate at:**       coursera.org/verify/specialization/RXSJ4UFR92AL
+
+![alt text](https://github.com/dmitrii-govorukhin/Applied-Data-Science-with-Python/blob/main/Applied Data Science with Python.png?raw=true)
+
+
+
+
