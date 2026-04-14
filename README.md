@@ -1,6 +1,6 @@
 # Applied Data Science with Python
 
-**Project:** 					  University of Michigan specialization - 5 course series.
+**Project:** University of Michigan specialization - 5 course series.
 
 **Platforms and tools:**  Jupyter Notebook, Python
 
@@ -29,10 +29,12 @@ The specialization focuses on data analysis methods using Python libraries for M
  - Text Mining
  - Visualization (Computer Graphics)
  - Data Visualization
+ 
+**Results / Key Findings:** This program covered statistical, machine learning, information visualization, text analysis, and social network analysis techniques, and learned python toolkits such as pandas, matplotlib, scikit-learn, nltk, and networkx to gain insight into their data. This specialization became one of the foundational areas for me in learning and beginning to apply machine learning methods.
 
-**Verify this certificate at:**       https://www.coursera.org/account/accomplishments/specialization/RXSJ4UFR92AL
+**Verify this certificate at:**  https://www.coursera.org/account/accomplishments/specialization/RXSJ4UFR92AL
 
-![alt text](https://github.com/dmitrii-govorukhin/Applied-Data-Science-with-Python/blob/main/Applied%20Data%20Science%20with%20Python.png?raw=true)
+![alt text](https://github.com/dmitrii-govorukhin/Applied-Data-Science-with-Python/blob/main/Applied_Data_Science_with_Python.png?raw=true)
 
 
 
